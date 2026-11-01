@@ -128,6 +128,6 @@ Follow the installation instructions in the project documentation to configure t
 **Tanay Virendra Wattamwar**
 
 - **GitHub:** [TanayWattamwar](https://github.com/TanayWattamwar)
-- **LinkedIn:** [Tanay Wattamwar](www.linkedin.com/in/tanaywattamwar1234)
+- **LinkedIn:** [Tanay Wattamwar](https://www.linkedin.com/in/tanaywattamwar?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
