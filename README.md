@@ -84,7 +84,7 @@ Install Python and the libraries required by the project.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/kartikN1234/Flood-and-landslide.git
+git clone https://github.com/TanayWattamwar/Flood-and-landslide.git
 ```
 
 ### 2. Navigate to the Project Directory
@@ -125,9 +125,9 @@ Follow the installation instructions in the project documentation to configure t
 
 ## 👨‍💻 Author
 
-**Kartik Appasaheb Nalawade**
+**Tanay Virendra Wattamwar**
 
-- **GitHub:** [kartikN1234](https://github.com/kartikN1234)
-- **LinkedIn:** [Kartik Nalawade](https://www.linkedin.com/in/kartik-nalawade-3a663625a/)
+- **GitHub:** [TanayWattamwar](https://github.com/TanayWattamwar)
+- **LinkedIn:** [Tanay Wattamwar](www.linkedin.com/in/tanaywattamwar1234)
 
 ---
